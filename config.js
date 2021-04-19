@@ -16,7 +16,7 @@ const defaults = {
         layer: 10,
     },
     output: {
-        channel: 2
+        channel: 5
     }
   }
 
